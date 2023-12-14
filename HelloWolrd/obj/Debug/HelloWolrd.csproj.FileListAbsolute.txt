@@ -1,0 +1,7 @@
+C:\Users\Gustavo Lacerda\OneDrive\Documentos\progamming\_VISUAL STUDIO\HelloWolrd\HelloWolrd\obj\Debug\HelloWolrd.csproj.AssemblyReference.cache
+C:\Users\Gustavo Lacerda\OneDrive\Documentos\progamming\_VISUAL STUDIO\HelloWolrd\HelloWolrd\obj\Debug\HelloWolrd.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Lacerda\OneDrive\Documentos\progamming\_VISUAL STUDIO\HelloWolrd\HelloWolrd\bin\Debug\HelloWolrd.exe.config
+C:\Users\Gustavo Lacerda\OneDrive\Documentos\progamming\_VISUAL STUDIO\HelloWolrd\HelloWolrd\bin\Debug\HelloWolrd.exe
+C:\Users\Gustavo Lacerda\OneDrive\Documentos\progamming\_VISUAL STUDIO\HelloWolrd\HelloWolrd\bin\Debug\HelloWolrd.pdb
+C:\Users\Gustavo Lacerda\OneDrive\Documentos\progamming\_VISUAL STUDIO\HelloWolrd\HelloWolrd\obj\Debug\HelloWolrd.exe
+C:\Users\Gustavo Lacerda\OneDrive\Documentos\progamming\_VISUAL STUDIO\HelloWolrd\HelloWolrd\obj\Debug\HelloWolrd.pdb
